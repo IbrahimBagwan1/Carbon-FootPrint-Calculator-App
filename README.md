@@ -38,12 +38,16 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
 3. **Testing:**
    - Tested the complete application to ensure that both the backend and frontend components are functioning correctly.
 
-## 👨‍👩‍👧‍👦Team Members 
+## 👨‍👩‍👧‍👦Team Members:
 
    -Aditya Ranjan<br>
    -Mahesh Kumar<br>
    -Ahibhruth A<br>
    -Ibrahim B
+
+## Credits:
+
+   -https://github.com/mesutdmn/Carbon-Footprint-Calculator-App
 
    <a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="media/Screenshot (122).png"></img></a>
 
